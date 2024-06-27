@@ -28,6 +28,7 @@ Dette kurset er strukturert i fem hoveddeler, hver designet for å bygge på den
    - Filtrering og nedsampling
    - Nærmeste nabo-søk
    - Enkel segmentering
+   - Visualisering
 
 4. [Ytelse og Effektivitet](4.%20Ytelse.md) (10 minutter)
    - Vektorisering
