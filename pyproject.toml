@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "open3dexperiments"
+version = "0.1.0"
+description = ""
+authors = ["Eirik Leikvoll <12532870+LeikvollE@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+open3d = "^0.18.0"
+numpy = "^2.0.0"
+laspy = "^2.5.4"
+lazrs = "^0.6.0"
+scikit-learn = "^1.5.0"
+pyyaml = "^6.0.1"
+addict = "^2.4.0"
+pillow = "^10.3.0"
+scipy = "^1.14.0"
+pandas = "^2.2.2"
+tqdm = "^4.66.4"
+matplotlib = "^3.9.0"
+pyvista = "^0.43.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
