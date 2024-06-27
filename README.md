@@ -1,6 +1,6 @@
 # NumPy for Punktsky-behandling Kurs
 
-Dette kurset er designet for å gi deg en grundig innføring i hvordan du kan utnytte kraften i NumPy for effektiv håndtering og analysering av punktskyer.
+Dette kurset er designet for å gi deg en innføring i hvordan du kan utnytte kraften i NumPy for effektiv håndtering og analysering av punktskyer.
 
 ## Kursoversikt
 
