@@ -46,6 +46,7 @@ Dette kurset er strukturert i fem hoveddeler, hver designet for å bygge på den
 1. Start med å lese gjennom README-filen for å få en oversikt over kurset.
 2. Gå gjennom hver seksjon i den angitte rekkefølgen ved å klikke på lenkene ovenfor.
 3. Kjør kodeeksemplene i hver seksjon for å få praktisk erfaring.
+4. Se gjennom og gjør deg kjent med resten av kode eksemplene i repoet.
 
 ## Forutsetninger
 
